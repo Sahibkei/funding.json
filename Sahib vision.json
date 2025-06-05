@@ -1,0 +1,41 @@
+{
+  "name": "Sahib",
+  "age": "17",
+  "location": "Portugal",
+  "email": "youremail@example.com",
+  "about": "Hey, I am Sahib \u2014 a 17-year-old Indian teen living in Portugal with my parents. I am passionate about the financial market, especially on the equity side. Currently, I manage my own portfolio, which is invested in the US market. I will turn 18 this year.",
+  "projects": [
+    {
+      "name": "AI-Powered Financial Automation Platform",
+      "description": "An AI-powered platform designed to revolutionize how individuals, startups, and governments manage finances. Acts as an intelligent virtual CFO providing forecasting, tax compliance, and financial reports in real-time. Built for personal and corporate finance, it merges automation, explainable AI, and government integration for future scalability.",
+      "mission": "To democratize access to enterprise-grade financial planning, accounting, and tax intelligence using AI.",
+      "problem": "Manual accounting, expensive planning, poor visibility, and error-prone tax handling limit financial decision-making.",
+      "solution": "A virtual FP&A tool offering auto-entry, forecasting, tax prep, simulations, and predictive budgeting.",
+      "website": "",
+      "tags": [
+        "AI",
+        "Finance",
+        "FP&A",
+        "Automation",
+        "Startup",
+        "SaaS"
+      ],
+      "status": "idea"
+    },
+    {
+      "name": "Crypto ETF Coin",
+      "description": "A cryptocurrency coin that mimics the behavior of a traditional ETF. Each coin represents a basket of crypto assets, backed by real asset holdings. Coins are minted or burned via smart contracts as investments come in or out, maintaining peg with underlying value. The project earns revenue by charging a 4% operational cost on investments.",
+      "idea_number": 2,
+      "concept": "Decentralized crypto ETF with dynamic supply and smart contract governance.",
+      "tags": [
+        "Crypto",
+        "ETF",
+        "DeFi",
+        "Blockchain",
+        "Smart Contracts"
+      ],
+      "status": "idea"
+    }
+  ],
+  "contact": "For further information regarding the project and its vision, please contact me using this email. Thank you."
+}
