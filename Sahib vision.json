@@ -2,7 +2,7 @@
   "name": "Sahib",
   "age": "17",
   "location": "Portugal",
-  "email": "youremail@example.com",
+  "email": "sahib24official@gmail.com",
   "about": "Hey, I am Sahib \u2014 a 17-year-old Indian teen living in Portugal with my parents. I am passionate about the financial market, especially on the equity side. Currently, I manage my own portfolio, which is invested in the US market. I will turn 18 this year.",
   "projects": [
     {
@@ -11,7 +11,7 @@
       "mission": "To democratize access to enterprise-grade financial planning, accounting, and tax intelligence using AI.",
       "problem": "Manual accounting, expensive planning, poor visibility, and error-prone tax handling limit financial decision-making.",
       "solution": "A virtual FP&A tool offering auto-entry, forecasting, tax prep, simulations, and predictive budgeting.",
-      "website": "",
+      "website": "https://github.com/Sahibkei/funding.json",
       "tags": [
         "AI",
         "Finance",
